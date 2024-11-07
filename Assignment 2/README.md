@@ -3,7 +3,7 @@
 
 API key was gotten from https://www.weatherapi.com/
 
-Key features that were implemented incude:
+Key features that were implemented include:
 - Android project in Kotlin
 - Main activity serves as app's entry point
 - Two screens using Jetpack compose: Main and settings
@@ -22,6 +22,4 @@ Key features that were implemented incude:
 - Displays a basic error message if the API call fails
 
 Limitations:
-Proper integration of WorkManager and the 5 day forecast display is not seen on the application. While attempts were made to include these features within the application, not everything could be completed in-time and was therefore not included.
-
-However, the code that we made to use as part of the integration of WorkManagwer and the 5 day forecast is still present within the application and can be found in the files, but none of it is in use. A refresh button was added in replacement of the WorkManager.
+Proper integration of WorkManager and the 5 day forecast display is not seen on the application. While attempts were made to include these features within the application, not everything could be completed in-time and was therefore not included. However, the code that we made to use as part of the integration of WorkManager and the 5 day forecast is still present within the application and can be found in the files, but none of it is in use. A refresh button was added in replacement of the WorkManager. Rather than periodically getting an update from the API, the user can click the refresh button and it will update the UI with the new data.
