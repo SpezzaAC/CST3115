@@ -9,6 +9,7 @@ If enabled, copy the API key, and paste it into the **(fill in code details)**.
 - Android project in Kotlin
 - Login screen with hardcoded credentials
 - Main Screen with button options for taks, location, and logout.
+- Current location of user
 - List of daily tasks (client name, address, and job description) with ability to mark as complete
 - Google Maps SDK displaying a static map with predefined client locations
 - SharedPreference to securely store login state
