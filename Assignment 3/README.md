@@ -11,3 +11,13 @@ If enabled, copy the API key, and paste it into the **(fill in code details)**.
 - Google Maps SDK displaying a static map with predefined client locations
 - List of daily tasks (client name, address, and job description) with ability to mark as complete
 - SharedPreference to securely store login state
+
+## App's Structure
+Talk about the structure....
+
+## Team Member Contributions
+The overall team contribute was quite even. In particular,
+- Spencer:
+- Edward:
+- Tim:
+- Harryson:
