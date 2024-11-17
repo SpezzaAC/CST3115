@@ -17,8 +17,8 @@ If enabled, copy the API key, and paste it into the **(fill in code details)**.
 Talk about the structure....
 
 ## Team Member Contributions
-The overall team contribute was quite even. In particular:
-- Spencer:
-- Edward:
-- Tim:
-- Harryson:
+The overall team collaboration/contributions was good and even. In particular:
+- Spencer: UI developer (Login screen + logic, main screen, etc.), + documentation
+- Edward: Location Developer (Primary app logic, UI, testing, etc.) + documentation
+- Tim: Co-Feature Developer (task list, etc.)
+- Harryson: Co-Feature Developer (task list, etc.)
