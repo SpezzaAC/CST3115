@@ -3,7 +3,7 @@
 
 ## Setup
 API key is from Google Cloud Console, and is **Not** included within the submission (for security purposes). To use this code, login/signup to Google Cloud Console, "get started" with Google Maps SDK, and enable (if not already) the "Static Maps API" feature.
-If enabled, copy the API keys, and paste it into the **(fill in code details)**.
+If enabled, copy the API key, and paste it into the **(fill in code details)**.
 
 ## Key features that were implemented include:
 - Android project in Kotlin
