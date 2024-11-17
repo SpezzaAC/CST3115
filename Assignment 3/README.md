@@ -8,15 +8,16 @@ If enabled, copy the API key, and paste it into the **(fill in code details)**.
 ## Key features that were implemented include:
 - Android project in Kotlin
 - Login screen with hardcoded credentials
-- Google Maps SDK displaying a static map with predefined client locations
+- Main Screen with button options for taks, location, and logout.
 - List of daily tasks (client name, address, and job description) with ability to mark as complete
+- Google Maps SDK displaying a static map with predefined client locations
 - SharedPreference to securely store login state
 
 ## App's Structure
 Talk about the structure....
 
 ## Team Member Contributions
-The overall team contribute was quite even. In particular,
+The overall team contribute was quite even. In particular:
 - Spencer:
 - Edward:
 - Tim:
