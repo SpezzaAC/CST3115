@@ -23,7 +23,7 @@ To log into the TechFix app, use the following credentials:
 ## App's Structure
 The general app structure is as follows:
 - mainActivity
--   (acts as the NavController)
+  -  acts as the NavController)
 - menuActivity (includes logic for currentLocation)
 - loginActivity
 - taskList
