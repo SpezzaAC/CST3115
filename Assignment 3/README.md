@@ -8,8 +8,8 @@ If enabled, copy the API key, and paste it into Line... **(fill in code details)
 ### Log Into App:
 To log into the TechFix app, use the following credentials:
 - **Username**: username
-- **Password**: password
-<br>*Note*: Once you log into the app once, the app saves the login info in SharedPreferences.
+- **Password**: password <br>
+*Note*: Once you log into the app once, the app saves the login info in SharedPreferences.
 
 ## Key App Features
 - Android project in Kotlin
