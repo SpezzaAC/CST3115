@@ -3,8 +3,8 @@
 
 ## Setup
 ### API Key:
-The API key is from Google Cloud Console, and is **Not** included within the submission (for security purposes), as you must have an active Google Console account. <br>To use this code, login/signup to Google Cloud Console, "get started" with Google Maps SDK, and enable (if not already) the "Static Maps API" feature.
-If enabled, copy the API key, and paste it into Line... **(fill in code details)**.
+The API key is from Google Cloud Console, and is **Not** included within the submission (for security purposes), as you must have an active Google Console account. To use this code, login/signup to Google Cloud Console, "get started" with Google Maps SDK, and enable (if not already) the "Static Maps API" feature.
+<br>If enabled, copy the API key, and paste it into the  Line... **(fill in code details)**.
 ### Log Into App:
 To log into the TechFix app, use the following credentials:
 - **Username**: username
