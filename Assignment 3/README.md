@@ -21,7 +21,13 @@ To log into the TechFix app, use the following credentials:
 - SharedPreference to securely store login state
 
 ## App's Structure
-Talk about the structure....
+The general app structure is as follows:
+- mainActivity
+-   (acts as the NavController)
+- menuActivity (includes logic for currentLocation)
+- loginActivity
+- taskList
+- staticMap 
 
 ## Team Member Contributions
 The overall team collaboration/contributions was good and even. In particular:
