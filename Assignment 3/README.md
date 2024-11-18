@@ -14,7 +14,7 @@ To log into the TechFix app, use the following credentials:
 ## Key App Features
 - Android project in Kotlin
 - Login screen with hardcoded credentials
-- Main Screen with button options for taks, location, and logout.
+- Main Screen with button options for tasks, location, and logout.
 - Location of user
 - List of daily tasks (client name, address, and job description) with ability to mark as complete
 - Google Maps SDK displaying a static map with predefined client locations
@@ -23,15 +23,15 @@ To log into the TechFix app, use the following credentials:
 ## App's Structure
 The general app structure is as follows:
 - mainActivity
-  -  (acts as the NavController)
+  -  Acts as the NavController and stores necessary application data.
 - menuActivity
-  - (includes logic for currentLocation)
+  - Allows user to navigate between the different activities - also contains the logic for the current location button which utilizes staticMap.
 - loginActivity
-  - About
+  - Allows the user to access the application after a successful username and password entry. The login state saves as a SharedPreference, meaning closing the application without logging out will leave you logged in.
 - taskList
-  - About 
+  - Displays a list of tasks, currently filled with hardcoded made-up data. Tasks can be marked as complete which removes them from the list, and each location for each task can be seen in the staticMap. 
 - staticMap
-  - About 
+  - Uses Google API's to display a static map based on the selected location from either the taskList or the current location selected in the menuActivity 
 
 ## Team Member Contributions
 The overall team collaboration/contributions was good and even. In particular:
