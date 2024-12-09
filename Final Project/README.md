@@ -11,7 +11,6 @@ To log into the Noble Threads app, use the following credentials:
 - **Password**: password
 
 
-
 ## App's Structure
 The general app structure is as follows:
 - mainActivity
@@ -20,7 +19,8 @@ The general app structure is as follows:
 
 ## Team Member Contributions
 The overall team collaboration/contributions was good and even. In particular:
-- Spencer: 
-- Edward: 
-- Tim: 
-- Harryson: 
+- Spencer: Map API implementation, project report, and presentation (lead).
+- Edward: Primary developer (backend logic).
+- Harryson: User interface (UI) implementation.
+- Tim: Products (lists and details), testing and support.
+
