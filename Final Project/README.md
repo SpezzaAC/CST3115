@@ -11,8 +11,6 @@ To log into the Noble Threads app, use the following credentials:
 - **Password**: password <br><br>
 *Note*: Once you log into the app once, the app saves the login info in SharedPreferences.
 
-## Key App Features
-- Android project in Kotlin
 
 ## App's Structure
 The general app structure is as follows:
