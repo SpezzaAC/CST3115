@@ -1,4 +1,4 @@
-# CST3115
+# CST3115 - Final Project
 # Spencer, Edward, Tim, Harryson
 
 ## Setup
