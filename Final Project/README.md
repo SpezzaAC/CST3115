@@ -8,8 +8,8 @@ The API key is from Google Cloud Console, and is **Not** included within the sub
 ### Log Into App:
 To log into the Noble Threads app, use the following credentials:
 - **Username**: username
-- **Password**: password <br><br>
-*Note*: Once you log into the app once, the app saves the login info in SharedPreferences.
+- **Password**: password
+
 
 
 ## App's Structure
